@@ -24,6 +24,7 @@ Route::get('/register', 'RegisterController@index')->name('register.index');
 Route::post('/register', 'RegisterController@store')->name('register.store');
 // Dashboard
 Route::get('/dashboard', 'DashboardController@index')->name('dashboard.index');
+Route::get('/profil', 'DashboardController@profil')->name('dashboard.profil');
 
 // logout
 Route::get('/logout', 'DashboardController@logout')->name('dashboard.logout');

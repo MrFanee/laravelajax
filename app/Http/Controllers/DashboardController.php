@@ -24,6 +24,10 @@ class DashboardController extends Controller
         return view('dashboard');
     }
 
+    public function profil()
+    {
+        return view('profil');
+    }
 
     /**
      * @param Request $request
