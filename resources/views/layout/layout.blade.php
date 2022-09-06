@@ -17,6 +17,11 @@
                 <a href="{{ route('dashboard.profil') }}" class="list-group-item" style="color: #212529;">Profil</a>
                 <a href="#" class="list-group-item" style="color: #212529;">coming soon</a>
                 <a href="#" class="list-group-item" style="color: #212529;">coming soon</a>
+            <ul class="list-group">
+                <li class="list-group-item active">Data</li>
+                <a href="{{ route('mahasiswa.index')}}" class="list-group-item" style="color: #212529;">Mahasiswa</a>
+                <a href="#" class="list-group-item" style="color: #212529;">coming soon</a>
+            </ul>
             </ul>
             <ul class="list-group">
                 <li class="list-group-item active">Coming Soon</li>
