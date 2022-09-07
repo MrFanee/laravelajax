@@ -19,25 +19,25 @@
                         <label>REGISTER</label>
                         <hr>
 
-                        <div class="form-group">
-                            <label>Nama</label>
-                            <input type="text" class="form-control" id="nama" placeholder="Masukkan Nama Lengkap">
-                        </div>
+                            <div class="form-group">
+                                <label>Nama</label>
+                                <input type="text" class="form-control" id="nama" placeholder="Masukkan Nama Lengkap">
+                            </div>
 
-                        <div class="form-group">
-                            <label>Jurusan</label>
-                            <input type="text" class="form-control" id="jurusan" placeholder="Masukkan jurusan">
-                        </div>
+                            <div class="form-group">
+                                <label>Jurusan</label>
+                                <input type="text" class="form-control" id="jurusan" placeholder="Masukkan jurusan">
+                            </div>
 
-                        <div class="form-group">
-                            <label>jenis Kelamin</label>
-                            <select name="jk" class="form-control" id="jk">
-                                <option value="laki-laki">Laki-laki</option>
-                                <option value="perempuan">Perempuan</option>
-                            </select>
-                        </div>
+                            <div class="form-group">
+                                <label>jenis Kelamin</label>
+                                <select name="jk" class="form-control" id="jk">
+                                    <option value="laki-laki">Laki-laki</option>
+                                    <option value="perempuan">Perempuan</option>
+                                </select>
+                            </div>
 
-                        <button class="btn btn-register btn-block btn-success">Submit</button>
+                            <button class="btn btn-register btn-block btn-success">Submit</button>
 
 
                     </div>

@@ -17,22 +17,22 @@
                     <label>REGISTER</label>
                     <hr>
 
-                    <div class="form-group">
-                        <label>Nama Lengkap</label>
+                        <div class="form-group">
+                            <label>Nama Lengkap</label>
                         <input type="text" class="form-control" id="nama_lengkap" placeholder="Masukkan Nama Lengkap">
-                    </div>
+                        </div>
 
-                    <div class="form-group">
-                        <label>Alamat Email</label>
-                        <input type="email" class="form-control" id="email" placeholder="Masukkan Alamat Email">
-                    </div>
+                        <div class="form-group">
+                            <label>Alamat Email</label>
+                            <input type="email" class="form-control" id="email" placeholder="Masukkan Alamat Email">
+                        </div>
 
-                    <div class="form-group">
-                        <label>Password</label>
-                        <input type="password" class="form-control" id="password" placeholder="Masukkan Password">
-                    </div>
+                        <div class="form-group">
+                            <label>Password</label>
+                            <input type="password" class="form-control" id="password" placeholder="Masukkan Password">
+                        </div>
 
-                    <button class="btn btn-register btn-block btn-success">REGISTER</button>
+                        <button class="btn btn-register btn-block btn-success">REGISTER</button>
 
 
                 </div>
